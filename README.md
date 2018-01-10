@@ -40,7 +40,7 @@ If you wish to contribute ideas or code, Contact Bootz at places list below:
 + MSVS    = 15(2017)      (Windows only)
 
 ## ToDO List:
-Read file: [ToDO](doc/ToDO.md.md)
+Read file: [ToDO](https://goo.gl/o7ar8G)
 
 ## Copyright
 License: GPL 3.0
@@ -54,9 +54,9 @@ Issue tracking is currently is disabled, for this project.
 Fixes are not handled through this repository, view introduction.
 
 ## Authors & Contributors
-Read file: [THANKS](https://github.com/ProjectSkyfire/SkyFireEMU/tree/master/doc/THANKS.md)
+Read file: [THANKS](https://goo.gl/Mybk8j)
 
 ## Links
 For further information on our community supported Projects, please visit our [Forum](http://www.projectskyfire.org)
 
-Database DownLoad: [SF1DB Release v0.0.3](https://www.projectskyfire.org/index.php?/files/file/28-skyfireone-db-release/)
+Database DownLoad: [SF1DB Release v0.0.3](https://goo.gl/uTHoVC)
