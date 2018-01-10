@@ -37,12 +37,15 @@ If you wish to contribute ideas or code, Contact Bootz at places list below:
 + CMake   = 3.8.1         (Windows / Linux)
 + OpenSSL = 1.0.2L        (Windows / Linux)
 + GCC     = 4.7.2         (Linux only)
-+ MS Visual Studio = 15 (2017) (Windows only)
++ MSVS    = 15(2017)      (Windows only)
+
+## ToDO List:
+Read file: [ToDO](doc/ToDO.md.md)
 
 ## Copyright
 License: GPL 3.0
 
-Read file [COPYING](COPYING.md)
+Read file: [COPYING](doc/COPYING.md)
 
 ## Reporting issues
 Issue tracking is currently is disabled, for this project. 
@@ -51,10 +54,9 @@ Issue tracking is currently is disabled, for this project.
 Fixes are not handled through this repository, view introduction.
 
 ## Authors & Contributors
-Read file [THANKS](https://github.com/ProjectSkyfire/SkyFireEMU/tree/master/doc/THANKS.md)
+Read file: [THANKS](https://github.com/ProjectSkyfire/SkyFireEMU/tree/master/doc/THANKS.md)
 
 ## Links
-For further information on our community supported Projects, please visit our
-project Forum [Project SkyFire](http://www.projectskyfire.org)
+For further information on our community supported Projects, please visit our [Forum](http://www.projectskyfire.org)
 
-Database DownLoad [SF1DB Release v0.0.3](https://www.projectskyfire.org/index.php?/files/file/28-skyfireone-db-release/)
+Database DownLoad: [SF1DB Release v0.0.3](https://www.projectskyfire.org/index.php?/files/file/28-skyfireone-db-release/)
