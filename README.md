@@ -2,14 +2,18 @@
 	
 ## Build Status		
 	
-     Names     |    Status		
- ------------- | -------------
-   Travis-CI   | [![Build Status](https://travis-ci.org/Bootz/SkyFireONE_NG.svg?branch=master)](https://travis-ci.org/Bootz/SkyFireONE_NG)		
-   Appveyor    | [![Build status](https://ci.appveyor.com/api/projects/status/6f7vyo0xbk7x11fi/branch/master?svg=true)](https://ci.appveyor.com/project/Bootz49186/skyfireone-ng/branch/master)		
-   Dependency  | [![Dependency Status](https://david-dm.org/boennemann/badges.svg)]()		
-    FTB        | [![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com)		
-    FTB        | [![forthebadge](http://forthebadge.com/images/badges/made-with-crayons.svg)](http://forthebadge.com)		
-   Make a PR   | [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)		
+Travis-CI   
+[![Build Status](https://travis-ci.org/Bootz/SkyFireONE_NG.svg?branch=master)](https://travis-ci.org/Bootz/SkyFireONE_NG)		
+Appveyor    
+[![Build status](https://ci.appveyor.com/api/projects/status/6f7vyo0xbk7x11fi/branch/master?svg=true)](https://ci.appveyor.com/project/Bootz49186/skyfireone-ng/branch/master)		
+Dependency 
+[![Dependency Status](https://david-dm.org/boennemann/badges.svg)]()		
+FTB         
+[![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com)		
+FTB         
+[![forthebadge](http://forthebadge.com/images/badges/made-with-crayons.svg)](http://forthebadge.com)		
+Make a PR   
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)		
 	
 ## Introduction		
 	
